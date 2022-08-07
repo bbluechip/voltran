@@ -24,6 +24,7 @@
 👉 Git commands (push, pull, commit, add etc.)
 
 ## Voltran
+I made this website to improve my HTML and CSS skills.
 
 Voltran, is about giant war robot series that created for televisions in 1980's.
 
