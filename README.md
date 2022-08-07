@@ -1,5 +1,5 @@
 ## Voltran
-(GİF)
+![Animation](https://github.com/bbluechip/voltran/blob/master/images/Animation.gif)
 
 
 👉[Click here to see the page](https://bbluechip.github.io/voltran/)
