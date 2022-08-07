@@ -2,7 +2,7 @@
 (GİF)
 
 
-Site link 👉 https://bbluechip.github.io/voltran/
+👉[Click here to see the page](https://bbluechip.github.io/voltran/)
 
 ## Project Skeleton 
 
@@ -11,7 +11,7 @@ Site link 👉 https://bbluechip.github.io/voltran/
     |-- images
     |   |-- voltran.jpg
     |   |-- voltran2.jpg
-    |   `-- voltran3.jpg
+    |   |-- voltran3.jpg
     |-- index.html
     |-- styles.css
 ```
