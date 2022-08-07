@@ -16,14 +16,14 @@
     |-- styles.css
 ```
 
-## Features used in the project
+## Used in this project
 👉 HTML lists, divs, inputs, headers etc.
 
 👉 CSS display, block system, grid system with lists, responsive web site, changing Css animations etc.
 
 👉 Git commands (push, pull, commit, add etc.)
 
-## Voltran
+## Description
 I made this website to improve my HTML and CSS skills.
 
 Voltran, is about giant war robot series that created for televisions in 1980's.
