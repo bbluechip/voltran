@@ -19,9 +19,9 @@
 ## Features used in the project
 👉 HTML lists, divs, inputs, headers etc.
 
-👉 CSS display, block system, grid system with lists etc.
+👉 CSS display, block system, grid system with lists, responsive web site, changing Css animations etc.
 
-👉 Git commands (psuh, pull, commit, add etc.)
+👉 Git commands (push, pull, commit, add etc.)
 
 ## Voltran
 
