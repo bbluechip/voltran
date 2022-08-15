@@ -21,7 +21,7 @@
 
 👉 CSS display, block system, grid system with lists, responsive web site, changing Css animations etc.
 
-👉 Git commands (push, pull, commit, add etc.)
+👉 Github & Git commands (push, pull, commit, add etc.)
 
 ## Description
 I made this website to improve my HTML and CSS skills.
